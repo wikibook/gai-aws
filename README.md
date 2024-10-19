@@ -1,0 +1,27 @@
+# [《AWS 기반 생성형 AI》](https://wikibook.co.kr/gai-aws/) (위키북스, 2024)
+
+[![](img/gaia_book_cover_sm.png)](https://wikibook.co.kr/gai-aws/)
+
+* [1장](/01_intro) - 생성형 AI 활용 사례, 기본 사항 및 프로젝트 생명 주기
+* [2장](/02_prompt) - 프롬프트 엔지니어링과 콘텍스트 내 학습
+* [3장](/03_foundation) - 대형 언어 파운데이션 모델
+* [4장](/04_optimize) - 메모리와 연산 최적화
+* [5장](/05_finetune) - 미세 조정 및 평가
+* [6장](/06_peft) - 효율적인 매개변수 미세 조정(PEFT)
+* [7장](/07_rlhf) - 인간 피드백을 통한 강화 학습으로 미세 조정(RLHF)
+* [8장](/08_deploy) - 모델 배포 최적화
+* [9장](/09_rag) - RAG와 에이전트를 활용한 맥락 인식 추론 애플리케이션
+* [10장](/10_multimodal) - 멀티모달 파운데이션 모델
+* [11장](/11_diffusers) - 스테이블 디퓨전을 통한 생성 제어와 미세 조정
+* [12장](/12_bedrock) - 아마존 베드록: 생성형 AI 관리형 서비스
+
+## 저자
+* [크리스 프레글리(Chris Fregly)](https://www.linkedin.com/in/cfregly/)
+* [안체 바르트(Antje Barth)](https://www.linkedin.com/in/antje-barth/)
+* [셸비 아이겐브로데(Shelbee Eigenbrode)](https://www.linkedin.com/in/shelbee-eigenbrode/)
+
+# 관련 자료
+* 유튜브 채널: https://youtube.generativeaionaws.com
+* AWS에서의 생성형 AI 밋업 (글로벌, 온라인): https://meetup.generativeaionaws.com
+* AWS에서의 생성형 AI - O'Reilly 서적: https://www.amazon.com/Generative-AI-AWS-Multimodal-Applications/dp/1098159225/
+* AWS에서의 데이터 과학 - O'Reilly 서적: https://www.amazon.com/Data-Science-AWS-End-End/dp/1492079391/
